@@ -1,0 +1,18 @@
+server{
+	listen 80 default_server;
+	listen [::]:80 default_server;
+	root /var/www/captive_loki;
+		index index.php index.html index.htm;
+
+	location / {
+			if (!-f $request_filename){
+				return 302 $scheme://192.168.2.1/index.html;
+			}
+			try_files $uri $uri/ /index.php?args;
+	}
+			location ~ \.php$ {
+				include snippets/fastcgi-php.conf;
+				fastcgi_pass unix:/run/php/php7.4-fpm.sock;
+				fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+			}
+}

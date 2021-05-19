@@ -1,0 +1,12 @@
+hostapd
+dnsmasq
+nginx
+php7.4-fpm
+awk
+curl
+xterm
+unzip
+isc-dhcp-server
+dsniff
+route
+tcpdump
