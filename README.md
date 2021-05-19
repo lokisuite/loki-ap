@@ -50,8 +50,8 @@ Onde:
 | -k | mata processos conflitantes (recomendado)|
 | -i | define qual interface será utilizada para criar um AP |(wlan0, wlan1...)
 | -c | define o canal em que o AP será criado (1, 2, 3...)|
-| -e | nome parra o AP ("Internet Gratis")|
-| -w | tipo de segunraca (1 - WEP, 2 - WPA, 3 - WPA+WPA2)|
+| -e | nome para o AP ("Internet Gratis")|
+| -w | tipo de segurança (1 - WEP, 2 - WPA, 3 - WPA+WPA2)|
 | -p | codigo do captive portal (1 - Update de firmware, 2 - Login com rede social)|
 
 
