@@ -56,7 +56,7 @@ Onde:
 
 
 
-### Imagens do portal WEP em utilização e credenciais capturadas do lado do atacante
+#### Imagens do portal WEP em utilização e credenciais capturadas do lado do atacante
 
 
 ```
@@ -67,7 +67,7 @@ Onde:
 
 
 
-### Do lado da vítima (smartphone)
+#### Do lado da vítima (smartphone)
 
 
 ![WEP](https://raw.githubusercontent.com/lokisuite/images/main/print2.jpeg) 
@@ -99,7 +99,7 @@ Onde:
 
 
 
-### Imagens AP WAP em utilização e MITM em curso
+#### Imagens AP WAP em utilização e MITM em curso
 
 ```
 ./Loki-ap.sh -k -i wlan0 -c 11 -e Loki_WPA -w 2 -P 12345678 -s eth0
@@ -109,7 +109,7 @@ Onde:
 
 
 
-### Do lado da vítima (smartphone)
+#### Do lado da vítima (smartphone)
 
 ![WAP](https://raw.githubusercontent.com/lokisuite/images/main/print5.jpeg)
 
