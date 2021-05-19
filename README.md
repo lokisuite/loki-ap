@@ -32,7 +32,7 @@ chmod +x Loki-ap.sh
 
 
 
-## Modos de usu básico
+## Modos de uso básico
 
 O Loki-ap permite combinações de tecnicas para melhor utilizar de acordo com a necessidade.
 
