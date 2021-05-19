@@ -140,6 +140,6 @@ Algumas das configurações de conexão são inseridas de forma default, porém 
 ## :heavy_exclamation_mark: Requisitos
 
 - um sistema operacional baseado em Linux. Recomendamos Kali Linux 2021.1
-- uma placa externa wiwi com capacidade para modo monitor e modo AP
+- uma placa externa wifi com capacidade para modo monitor e modo AP
 
 
