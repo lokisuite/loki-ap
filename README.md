@@ -95,7 +95,7 @@ Onde:
 | -e | nome parra o AP ("Internet Gratis")|
 | -w | tipo de segunraca (1 - WEP, 2 - WPA, 3 - WPA+WPA2)|
 | -P | senha de acesso para autenticacao (minimo de 8 caracteres)|
-| -s | interface com conexão à internet que será a ponte para gerar o MITM (recomenda-se interface cabeada)|
+| -s | indica que um ataque MITM fois escolhido e exige a interface com conexão à internet que será a ponte para gerar o MITM (recomenda-se interface cabeada)|
 
 
 
