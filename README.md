@@ -130,7 +130,7 @@ Algumas das configurações de conexão são inseridas de forma default, porém 
 | Argumentos | Resultado | Opção default |
 |------------|-----------|---------------|
 | -g | altera o gateway | default 192.168.2.1 |
-| -r | range de IPs |default 192.168.2.2,192.168.2.300 |
+| -r | range de IPs |default 192.168.2.2,192.168.2.30 |
 | -n | netmask | default 255.255.255.0 |
 | -b | IP do host | default 192.168.2.0|
 | -c | canal | default 11 |
