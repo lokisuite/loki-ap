@@ -70,9 +70,16 @@ Onde:
 #### Do lado da vítima (smartphone)
 
 
-![WEP](https://raw.githubusercontent.com/lokisuite/images/main/print2.jpeg) 
-
-![WEP](https://raw.githubusercontent.com/lokisuite/images/main/print3.jpeg) 
+<table>
+  <tr>
+     <td>AP disponível</td>
+     <td>Redirecionado após conexão</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/lokisuite/images/main/print2.jpeg" width=270 height=480></td>
+    <td><img src="https://raw.githubusercontent.com/lokisuite/images/main/print3.jpeg" width=270 height=480></td>
+  </tr>
+ </table>
 
 
 
@@ -111,11 +118,19 @@ Onde:
 
 #### Do lado da vítima (smartphone)
 
-![WAP](https://raw.githubusercontent.com/lokisuite/images/main/print5.jpeg)
+<table>
+  <tr>
+     <td>AP disponível</td>
+     <td>Autenticação necessária</td>
+     <td>Usuário conectado</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/lokisuite/images/main/print5.jpeg" width=270 height=480></td>
+    <td><img src="https://raw.githubusercontent.com/lokisuite/images/main/print6.jpeg" width=270 height=480></td>
+    <td><img src="https://raw.githubusercontent.com/lokisuite/images/main/print7.jpeg" width=270 height=480></td>
+  </tr>
+ </table>
 
-![WAP](https://raw.githubusercontent.com/lokisuite/images/main/print6.jpeg)
-
-![WAP](https://raw.githubusercontent.com/lokisuite/images/main/print7.jpeg)
 
 
 Enquanto a vítima estiver conectada,ou até quando o portal ainda estiver ativo pelo atacante, um arquivo de monitoramento será salvo em um diretório apontado pelo Loki-ap. Este arquivo pode ser lido com o uso de ferramentas como Wireshark ou tcpdump.
