@@ -10,8 +10,8 @@ loki_ajuda(){
 
   MODO DE USO
 	 Deve rodar no modo root
-	 Modo de uso basico: ./Fenrir-ap.sh  [-k] [-i interface] [-c canal] [-e essid] [-p portal]
-  	 Exemplo: ./Fenrir-ap.sh -k -i wlan0 -c 11 -e FreeWifi -p 1
+	 Modo de uso basico: ./Loki-ap.sh  [-k] [-i interface] [-c canal] [-e essid] [-p portal]
+  	 Exemplo: ./Loki-ap.sh -k -i wlan0 -c 11 -e FreeWifi -p 1
 
   OPCOES
          -h      		exibe este manual.
